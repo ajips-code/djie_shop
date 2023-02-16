@@ -2,6 +2,7 @@
 
 A new Flutter project.
 
+![ALT](https://raw.githubusercontent.com/magerngulik/slicing_shoppig_app_from_figma/main/assets/images/p1.jpg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
